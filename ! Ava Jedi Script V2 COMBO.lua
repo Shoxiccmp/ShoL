@@ -906,3 +906,4 @@ end
 
 
 
+bash cd:sh install
